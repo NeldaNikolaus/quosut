@@ -1,0 +1,16 @@
+{
+  "name": "@kristiandupont/dev-deps-node",
+  "version": "1.3.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kristiandupont/frame.git"
+  },
+  "author": "Kristian Dupont <kristian@kristiandupont.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.0.0",
+    "nodemon": "^3.0.0",
+    "ts-node": "^10.9.1"
+  }
+}
